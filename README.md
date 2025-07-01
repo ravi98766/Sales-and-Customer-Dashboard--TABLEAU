@@ -1,7 +1,7 @@
 Tableau User Story | Sales Performance
 Introduction
 This user story outlines the specifications for building two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers. 
-Sales Dashboard | Requirements
+**Sales Dashboard | Requirements**
 Dashboard Purpose
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 Key Requirements
@@ -17,11 +17,11 @@ Weekly Trends for Sales & Profit
  – Present weekly sales and profit data for the current year.
  – Display the average weekly values.
  – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
-Customer Dashboard | Requirements
-Dashboard Purpose
+**Customer Dashboard | Requirements**
+_Dashboard Purpose_
 The customer dashboard aims to provide an overview of customer data, trends and behaviors. It will help marketing teams and management to understand customer segments and improve customer satisfaction.
 Key Requirements
-KPI Overview
+_KPI Overview_
 Display a summary of total number of customers , total sales per customer and total number of orders for the current year and the previous year.
 Customer Trends
  – Present the data for each KPI on a monthly basis for both the current year and the previous year.
